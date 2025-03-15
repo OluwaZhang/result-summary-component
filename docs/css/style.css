@@ -559,10 +559,6 @@ video {
   margin-bottom: 1rem;
 }
 
-.mb-2 {
-  margin-bottom: 0.5rem;
-}
-
 .mb-4 {
   margin-bottom: 1rem;
 }
@@ -617,6 +613,10 @@ video {
 
 .gap-5 {
   gap: 1.25rem;
+}
+
+.gap-9 {
+  gap: 2.25rem;
 }
 
 .rounded-3xl {
